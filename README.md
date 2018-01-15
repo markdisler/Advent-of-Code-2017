@@ -2,7 +2,7 @@
 These are my solutions for Advent of Code 2017.
 The puzzle instructions are available [here](https://adventofcode.com/2017).
 
-#My Solutions##
+##My Solutions##
 
 Day 1   [Part 1](https://github.com/markdisler/Advent-of-Code-2017/blob/master/Day1-1.py)    [Part 2](https://github.com/markdisler/Advent-of-Code-2017/blob/master/Day1-2.py)
 
